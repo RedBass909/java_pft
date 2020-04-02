@@ -12,3 +12,5 @@ gradle-app.setting
 
 # # Work around https://youtrack.jetbrains.com/issue/IDEA-116898
 # gradle/wrapper/gradle-wrapper.properties
+gradle-6.3-20200331230032+0000/bin/gradle.bat
+gradle-6.3-20200331230032+0000/bin/gradle
